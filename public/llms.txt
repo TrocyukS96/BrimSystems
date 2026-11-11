@@ -1,0 +1,23 @@
+# BrimSystems
+
+> Independent digital studio building websites, online stores, web applications, CRM integrations and business automation.
+
+Russian website: https://pacificmule.com/ru
+English website: https://pacificmule.com/en
+
+## Services
+- Websites, online stores and web applications
+- Website redesign and modernization
+- E-commerce, CRM integrations and business automation, including Saleor and Payload CMS when appropriate
+- Technical SEO, search-friendly content and analytics
+
+## Selected work
+- https://147pacific.com
+- https://hecosvc.com
+- https://progressive-auto-sports.vercel.app
+- https://w3league.net/ru
+
+## Contact
+Visit https://pacificmule.com/ru#contact
+
+We do not guarantee search rankings or outcomes in AI-generated answers.
